@@ -73,9 +73,12 @@ _Cue Condition:_ Sv, SvMv, SvMt, SvMvt.
 _**Exemplar Type:**_
 
 1. _Learned exemplars_: Object Shapes (i.e., stimuli n. 5-13, 24 – 32 in the 3D stimuli space) presented during supervised learning;
+2. 
    1.a _In Experiment 2: Learned exemplars (Informative):_ Object Shapes (i.e., stimuli n. 5-13, 24 – 32 in the 3D stimuli space) presented during supervised learning.These shapes are 100% informative of category membership. _Learned exemplars (Uninformative):_ Object Shapes (i.e., stimuli n. 3,7,22,26 in the 3D stimuli space) previously presented in the supervised learning task. These shapes are uninformative of category membership;
+   
    1.b _In Experiment 3_ : Learned exemplars: Object Shapes (i.e., stimuli n. 5-13, 24 – 32 in the 3D stimuli space) presented during supervised learning;
-2. _Novel exemplars_: Object Shapes (i.e., stimuli defined as 14 - 23 in the 3D stimuli space) not seen during training but within the same shape space.
+   
+4. _Novel exemplars_: Object Shapes (i.e., stimuli defined as 14 - 23 in the 3D stimuli space) not seen during training but within the same shape space.
 
 **Covariates**
 
@@ -99,12 +102,6 @@ Full ethical approval was obtained from the School of Psychology Ethics Committe
 Peirce, J. W., Gray, J. R., Simpson, S., MacAskill, M. R., Höchenberger, R., Sogo, H., Kastman, E., Lindeløv, J. (2019). PsychoPy2: experiments in behavior made easy. Behavior Research Methods. 10.3758/s13428-018-01193-y
 
 Li, A. Y., Liang, J. C., Lee, A. C., & Barense, M. D. (2020). The validated circular shape space: Quantifying the visual similarity of shape. Journal of Experimental Psychology: General, 149(5), 949.
-
-**License**
-a. Code (analysis scripts, stimuli generation): MIT License
-b. All other materials (data, stimuli, experimental design): CC BY 4.0
-
-All stimuli were created by the author (Seveso, M., A.). Data has been anonymised and contains no personal information.
 
 **License**
 a. Code (analysis scripts, stimuli generation): MIT License
