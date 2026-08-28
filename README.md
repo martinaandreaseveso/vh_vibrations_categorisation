@@ -14,13 +14,15 @@ Fiona N. Newell
 
 _Experiment 1_ investigates whether visual and tactile (vibration) motion cues enhance the categorisation of unfamiliar 3D object shapes and the generalisation of learned categories to novel exemplars.
 
-a. Experiment 1a: Cue conditions are presented in blocked format at test.
-b. Experiment 1b: Cue conditions are presented in interleaved format at test.
+1. Experiment 1a: Cue conditions are presented in blocked format at test.
+2. 
+3. Experiment 1b: Cue conditions are presented in interleaved format at test.
 
 _Experiment 2_ investigates whether visual and tactile (vibration) motion cues enhance the categorisation of unfamiliar 3D object shapes and the generalisation of learned categories to novel exemplars, when one cue is less informative of category membership.
 
-a. Experiment 2a: Cue conditions are presented in blocked format at test.
-b. Experiment 2b: Cue conditions are presented in interleaved format at test.
+1. Experiment 2a: Cue conditions are presented in blocked format at test.
+2. 
+3. Experiment 2b: Cue conditions are presented in interleaved format at test.
 
 _Experiment 3_ is a follow up experiment, to assess and isolate the effect of shape alone. Experiment 3 followed the same learning procedure but presented only static, non-moving objects without motion or tactile cues. This allowed us to assess the relative contribution of multisensory motion cues beyond shape.
 
